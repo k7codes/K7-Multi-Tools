@@ -1,0 +1,9 @@
+# Çekirdek arayüz
+customtkinter>=5.2
+
+# Şifreli arşivler için AES (Unreal şifreli index/veri)
+cryptography>=41
+
+# İsteğe bağlı: yalnızca ilgili sıkıştırma yöntemini kullanan paketler için
+lz4>=4.3
+zstandard>=0.22
